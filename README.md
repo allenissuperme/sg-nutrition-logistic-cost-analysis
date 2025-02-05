@@ -75,7 +75,7 @@ GROUP BY Carrier, Distance_Category
 ORDER BY Distance_Category, Avg_Cost DESC;
 ```
 
-![Alt text](image_url)
+![Alt text](https://github.com/allenissuperme/sg-nutrition-logistic-cost-analysis/blob/main/Snipaste_2025-02-05_10-57-28.png?raw=true)
 
 ### Insights
 - **TNT** is the best for short-distance (150-300 miles) shipments.
